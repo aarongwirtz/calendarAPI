@@ -1,0 +1,3 @@
+Calendarific Endpoint with API KEY and parameters
+
+https://calendarific.com/api/v2/holidays?api_key=365375403a2bfb84a3436a52b769a366730f65d1&country=US&year=2020
